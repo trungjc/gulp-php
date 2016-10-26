@@ -1,0 +1,12 @@
+// import all variable and mixins utilities
+@import "base/variable.scss";
+@import "base/mixin.scss";
+
+// import all library scss
+@import "lib/_bootstrap.scss";
+
+
+// import stylesheet of application
+@import "app/header.scss";
+@import "app/content.scss";
+@import "app/footer.scss";
